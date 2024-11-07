@@ -1,0 +1,26 @@
+{
+  "name": "mdp-naprom",
+  "version": "1.0.0",
+  "description": "��0\u0000\r\u0000 \u0000",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patnap19/mdp-naprom.git"
+  },
+  "author": "Patryk Napiórkowski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patnap19/mdp-naprom/issues"
+  },
+  "homepage": "https://github.com/patnap19/mdp-naprom#readme",
+  "dependencies": {
+    "express": "^4.21.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
