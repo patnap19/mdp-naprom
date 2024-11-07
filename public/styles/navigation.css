@@ -4,8 +4,13 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 100;
   padding: 10px 20px;
   height: 80px;
+  width: 100vw;
   background-color: var(--color-black);
   width: 100%;
   padding: 0 var(--margin-side-main-desktop);

@@ -15,12 +15,8 @@
   --color-white: #ffffff;
   --color-black: #000000;
   --font-size-section-desktop: 4.4rem;
-  --font-size-main-desktop: 2rem;
+  --font-size-main-desktop: 1.6rem;
   --font-size-footer-desktop: 1.8rem;
   --font-size-small-desktop: 1.2rem;
   --margin-side-main-desktop: 80px; /* 7.8% */
-}
-
-body {
-  background-color: var(--color-black);
 }
