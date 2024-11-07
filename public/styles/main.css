@@ -17,10 +17,10 @@
   --font-size-section-desktop: 4.4rem;
   --font-size-main-desktop: 2rem;
   --font-size-footer-desktop: 1.8rem;
-  --font-size-small-desktop: 1.4rem;
+  --font-size-small-desktop: 1.2rem;
   --margin-side-main-desktop: 80px; /* 7.8% */
 }
 
-p {
-  font-size: 1rem;
+body {
+  background-color: var(--color-black);
 }
